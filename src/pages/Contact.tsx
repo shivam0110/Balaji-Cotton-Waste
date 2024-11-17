@@ -44,7 +44,7 @@ const Contact: React.FC = () => {
             </Typography>
             <Typography variant="h6" gutterBottom>
               <Phone sx={{ mr: 1 }} />
-              📞 Phone: <a href="tel:+919999999999">+91-9979173770</a>
+              📞 Phone: <a href="tel:+919016971871">+91-9016971871</a>
             </Typography>
             <Typography variant="h6" gutterBottom>
               <Email sx={{ mr: 1 }} />
@@ -52,7 +52,7 @@ const Contact: React.FC = () => {
             </Typography>
             <Typography variant="h6" gutterBottom>
               <WhatsApp sx={{ mr: 1 }} />
-              📱 WhatsApp: <a href="https://wa.me/919979173770" target="_blank" rel="noopener noreferrer">Chat with us</a>
+              📱 WhatsApp: <a href="https://wa.me/919016971871" target="_blank" rel="noopener noreferrer">Chat with us</a>
             </Typography>
             <Typography variant="h6" gutterBottom>
               📍 Address: Balaji Cotton Waste, Plot no 60, Sector 10A, Gandhidham, Gujarat 370201.
