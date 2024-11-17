@@ -56,7 +56,7 @@ const Home: React.FC = () => {
       {/* Image Carousel Section */}
       <Box sx={{ py: 2 }}>
         <Container>
-          <Typography variant="h4" fontWeight="bold" textAlign="center" mb={4}>
+          <Typography variant="h4" fontWeight="bold" textAlign="left" mb={4}>
             Our Cotton Waste Products
           </Typography>
 
@@ -71,30 +71,30 @@ const Home: React.FC = () => {
           >
             <div>
               <img
-                src="src/images/img1.jpg"
+                src="/images/img1.jpg"
                 alt="Cotton Waste Product 1"
-                style={{ width: '100%', height: 'auto', fill: 'contain', maxHeight: '500px' }}
+                style={{ width: '100%', height: 'auto', fill: 'contain', maxHeight: '400px' }}
               />
             </div>
             <div>
               <img
-                src="src/images/img2.jpg"
+                src="/images/img2.jpg"
                 alt="Cotton Waste Product 2"
-                style={{ width: '100%', height: 'auto', fill: 'contain', maxHeight: '500px' }}
+                style={{ width: '100%', height: 'auto', fill: 'contain', maxHeight: '400px' }}
               />
             </div>
             <div>
               <img
-                src="src/images/img3.jpg"
+                src="/images/img3.jpg"
                 alt="Cotton Waste Product 3"
-                style={{ width: '100%', height: 'auto', fill: 'contain', maxHeight: '500px' }}
+                style={{ width: '100%', height: 'auto', fill: 'contain', maxHeight: '400px' }}
               />
             </div>
             <div>
               <img
-                src="src/images/img4.jpg"
+                src="/images/img4.jpg"
                 alt="Cotton Waste Product 4"
-                style={{ width: '100%', height: 'auto', fill: 'contain', maxHeight: '500px' }}
+                style={{ width: '100%', height: 'auto', fill: 'contain', maxHeight: '400px' }}
               />
             </div>
           </Carousel>
